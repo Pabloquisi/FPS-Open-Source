@@ -9,25 +9,45 @@ List of bugs, recognized
 Fitur Sistem:
 
 Title System
+
 Mission Card System
+
 Tutorial Mode
+
 Destruction Mode
+
 Fix EXP (dapat Exp setelah mengakhiri permainan)
+
 Fix Credist / Point (dapat Credist / Point setelah pertandingan berakhir)
+
 Fix Fix
+
 Manual add weapon form database
+
 Fix Score Board
+
 Fix Player Kill Death in Score Board
+
 Fix AI MODE (UDP Connection)
+
 Fix New MAP
+
 Support UDP Server Connection
+
 Fix Server Chanel
+
 Fix Player Details
+
 Fix Configurations
+
 Fix Message System
+
 Fix Character Dino (can use dino character)
+
 Fix Item Consumption
+
 Fix Durable Item
+
 Fix Lan (bisa main LAN)
 
 required programs
